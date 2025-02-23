@@ -6,10 +6,9 @@ This project is a responsive hero section inspired by PHA5E, built using HTML, C
 ## Demo Video
 Here is a demo video showcasing the PHA5E hero section in action:
 
-<video width="100%" controls>
-  <source src="videos/pha5e-hero-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo](https://drive.google.com/thumbnail?id=1BGiDepeGZJFw09_xvE3EvSgEKLT9a9UP)](https://drive.google.com/file/d/1BGiDepeGZJFw09_xvE3EvSgEKLT9a9UP/preview)
+
+
 
 ## Features
 - **Animated Hero Section**: Smooth entry animations using GSAP.
